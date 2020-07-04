@@ -68,5 +68,7 @@ p{
 
 .titl{
     display: block;
+    width: 10%;
     background: green;
+    
 }
