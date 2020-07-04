@@ -70,6 +70,8 @@ p{
     display: block;
     width: 60%;
     background: green;
-    position: relative top right;
+    position: relative;
+    top: 0px;
+    right: 0px;
     
 }
