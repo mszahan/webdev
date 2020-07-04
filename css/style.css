@@ -55,10 +55,12 @@
 [class*="col-"]{
     float: left;
     padding:5px;
-    border: 1px solid black;
-    margin-right: 2px;
 }
 
 .row:after{
     
+}
+
+p{
+    border: 1px solid black;
 }
