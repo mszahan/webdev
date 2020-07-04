@@ -71,6 +71,6 @@ p{
     width: 50%;
     background: green;
     float: right;
-    clear: both;
+    clear: right;
     
 }
