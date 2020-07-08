@@ -67,10 +67,6 @@ p{
 }
 
 .titl{
-    display: block;
-    width: 50%;
     background: green;
-    float: right;
-    clear: right;
     
 }
