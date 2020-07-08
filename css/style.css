@@ -67,10 +67,11 @@ section {
 }
 
 p{
-    padding: 5px;
+    padding: 3px;
 }
 
 .titl{
     background: green;
+    padding: 2px;
     
 }
