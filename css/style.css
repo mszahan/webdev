@@ -69,6 +69,7 @@ section {
 
 p{
     padding: 5px;
+    margin-top: 20px;
  
     
 }
@@ -76,7 +77,6 @@ p{
 .titl{
     background: green;
     padding: 2px;
-    margin-bottom: 10px;
     position: absolute;
     top: 0px;
     right: 0px;
